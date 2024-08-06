@@ -13,7 +13,7 @@ This document provides information about how to configure user details and other
 ### [Keeping your fork synced with the repository](keeping-your-fork-synced-with-this-repository.md)
 This document provides information about how to keep your forked repository up-to-date with the base repository. This is important, as hopefully you and many others will contribute to the project.
 > Follow these steps if your fork doesn't have any changes in parent repository.
-
+AdarsharEDDY     
 ### [Moving a Commit to a different Branch](moving-a-commit-to-a-different-branch.md)
 This document provides information about how to move a Commit to another Branch.
 > Take these steps to move a commit to another branch.
